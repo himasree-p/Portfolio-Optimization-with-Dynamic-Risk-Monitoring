@@ -1,1 +1,1 @@
-# Portfolio-Optimization-with-Dynamic-Risk-Monitoring
+This project is an AI-powered investment strategy generator that integrates portfolio optimization with dynamic risk monitoring. It fetches market data using yfinance, computes key financial metrics (returns, volatility, covariance, beta, Value-at-Risk, and drawdowns), and applies mean–variance optimization to determine base portfolio weights. On top of this, it incorporates real-time risk monitoring and FinBERT-based sentiment analysis of financial news to dynamically adjust weights and predict investment horizons.
